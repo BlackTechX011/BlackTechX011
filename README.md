@@ -1,5 +1,5 @@
 # Hi, I’m @BlackTechX
-[youtube.com/@BlackTechX_](https://www.youtube.com/@BlackTechX_), a passionate self-taught Powerful Ethical Hacker and C,C++,JS,Shell and Python developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+[youtube.com/@BlackTechX_](https://www.youtube.com/@BlackTechX_), a self-taught Ethical Hacker and developer proficient in C, C++, JavaScript, Shell, and Python. Based in India, I'm passionate about crafting elegant solutions and prioritize user experience, architecture, and code quality. I thrive in the open-source community, valuing collaboration and knowledge sharing.
 
 i love open-source community. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
