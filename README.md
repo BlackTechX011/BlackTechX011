@@ -6,7 +6,7 @@ i love open-source community. i learned a lot from the open-source community and
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="[https://www.buymeacoffee.com/blacktechx](https://www.buymeacoffee.com/blacktechx)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/blacktechx" target="_blank"><img src="https://github.com/BlackTechX011/BlackTechX011/blob/main/black-button.png" width="200" hight="auto" ></a>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackTechX011&size_weight=0.7&count_weight=0.7&theme=transparent&show_icons=true) ![](https://github-readme-stats.vercel.app/api?username=BlackTechX011&show_icons=true&theme=transparent\&rank_icon=github)
